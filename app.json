@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Restaurants",
-    "slug": "restaurantSearch",
+    "name": "Go Where",
+    "slug": "goWhere",
     "privacy": "public",
     "platforms": [
       "ios",
