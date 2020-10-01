@@ -14,3 +14,8 @@ web-report/
 .DS_Store
 
 .env
+
+.idea
+
+.expo-shared
+.expo
